@@ -1,0 +1,10 @@
+packages 
+azure-devops-node-api:- https://www.npmjs.com/package/azure-devops-node-api
+openai:- https://www.npmjs.com/package/openai
+
+search workitem
+link:- https://stackoverflow.com/questions/70867870/how-to-get-work-item-description-through-azure-devops-services-rest-api
+https://learn.microsoft.com/en-us/rest/api/azure/devops/wit/work-items/get-work-item?view=azure-devops-rest-7.1&tabs=HTTP
+
+https://groq.com/
+
